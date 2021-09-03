@@ -4,4 +4,4 @@ This project implements an algorithm to estimate the direction of arrivals (DOAs
 The algorithm uses Linear Algebra techniques. Implementation is done in MATLAB.
 Files:
 music_algo.m : This is the main project file
-Estimation of DOAs.fig : Open this file in MATLAB. The peaks in the graph shows DOAs.[music_algorithm.zip](https://github.com/Akkage/Implementation-of-Multiple-Signal-Classification-algorithm-for-Direction-of-Arrival-Estimation/files/7108179/music_algorithm.zip)
+Estimation of DOAs.fig : Open this file in MATLAB. The peaks in the graph shows DOAs.
